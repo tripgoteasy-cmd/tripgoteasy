@@ -27,7 +27,7 @@
 
 // export default App;
 import Navbar from "./Components/Navbar";
-import Hero from "./components/Hero";
+import Hero from "./Components/Hero";
 import PopularDestinations from "./Components/PopularDestinations";
 import Packages from "./Components/Packages";
 import FloatingWA from "./Components/FloatingWA";
