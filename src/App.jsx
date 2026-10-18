@@ -42,7 +42,7 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      <TulipFestival />
+      {/* <TulipFestival /> */}
       <PopularDestinations />
       <Packages />
       <FloatingWA />

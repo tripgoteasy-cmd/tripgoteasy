@@ -18,7 +18,7 @@ function Hero() {
 
       {/* Content */}
       <div className="relative z-10 max-w-6xl mx-auto px-6">
-        <p className="text-blue-400 mb-4">Kashmir, India</p>
+        <p className="text-blue-400 mb-4">Jammu and Kashmir, India</p>
 
         <h1 className="text-5xl md:text-6xl font-bold leading-tight mb-6">
           Discover Paradise <br /> on Earth
