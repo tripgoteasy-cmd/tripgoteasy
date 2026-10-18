@@ -14,7 +14,7 @@ export default defineConfig({
     }),
     tailwindcss(),
     Sitemap({
-      hostname: "https://tripgoteasy.com",
+     hostname: "https://www.tripgoteasy.com",
     }),
   ],
 });
